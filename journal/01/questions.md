@@ -34,7 +34,7 @@
     > | Assuming my answer above is correct, I think it depends on each individual. Some people need that structure. Personally, I don't think I'll utilize it |
 
 10. Define the display `:flex property:`
-    > | ANSWER HERE |
+    > | "...it is used to set the length of flexible items". A way to flex and shrink and stretch certain items. |
 
 11. What `CSS` properties affect the size of a box model?
-    > | ANSWER HERE |
+    > | Padding, height, width I believe is all of them |
