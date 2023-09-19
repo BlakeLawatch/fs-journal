@@ -25,13 +25,13 @@
     > | Selector, property, value |
 
 07. How do you think good design influences people when visiting a website, and what sorts of things could you convey through design alone?
-    > | ANSWER HERE |
+    > | We eat with our eyes first. You can covey what is important, what common things your website provides first and foremost through design |
 
 08. What is the purpose of ***wireframing***?
-    > | ANSWER HERE |
+    > | I don't feel like I understand this completely. I think it's kind of like an outline of an essay. It gives you the basic layout you want before you add detail. |
 
 09. Do you think wireframes are worth the time, energy, and effort that they require? Why or Why not?
-    > | ANSWER HERE |
+    > | Assuming my answer above is correct, I think it depends on each individual. Some people need that structure. Personally, I don't think I'll utilize it |
 
 10. Define the display `:flex property:`
     > | ANSWER HERE |
