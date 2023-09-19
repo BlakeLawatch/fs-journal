@@ -9,10 +9,10 @@
     > | It's a CSS command that changes something when an action takes place |
 
 04. What is ***specificity*** and how might you use it to your benefit?
-    > | ANSWER HERE |
+    > | It's a way of having multiple rules performing in a specific order |
 
 05. What problems do you think you could run into if you over-utilized the `!important` feature?
-    > | ANSWER HERE |
+    > | I'd imagine it would do some things that you wouldn't want. It would cancel out some rules and properties that you laid out that you didn't intend on over riding |
 
 06. What are the three components that makeup a `CSS` rule? <br> Example:
 
@@ -22,7 +22,7 @@
         }
     ```
 
-    > | ANSWER HERE |
+    > | Selector, property, value |
 
 07. How do you think good design influences people when visiting a website, and what sorts of things could you convey through design alone?
     > | ANSWER HERE |
