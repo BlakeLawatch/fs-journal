@@ -9,7 +9,7 @@
 
 03. What are the `SOLID` principles?
 
-    > | ANSWER HERE |
+    > | They're 5 rules that help keep and maintain clear and concise code |
 
 04. Given this array: How could you remove the `pineapple`?
 
@@ -17,7 +17,7 @@
     let fruit = ['apple', 'banana', 'pineapple', 'orange', 'strawberry']
     ```
 
-    > | ANSWER HERE |
+    > | shift...? I don't quite understand|
 
 05. Given these two objects: How could you add each to the others friends arrays?
 
@@ -34,24 +34,27 @@
     }
     ```
 
-    > | ANSWER HERE |
+    > | you.friends.push(them)
+    them.friends.push(you) |
 
 06. Give an example of a JavaScript `Conditional`:
 
-    > | ANSWER HERE |
+    > | an if statement is what we have used the most I believe |
 
 07. What is the main difference between `parameters` and `arguments`?
 
-    > | ANSWER HERE |
+    > | An argument is a rule, a parameter is a variable that has been set to a certain condition |
 
 08. Instead of writing everything to the console, what is a better way to debug your code?
 
-    > | ANSWER HERE |
+    > | comment anchors I suppose. It's a different way, but I don't think it's better...? Also, Micks debugging tool |
 
 09. What is the difference between a `primitive` value and a `reference` value?
 
-    > | ANSWER HERE |
+    > | Primitive values are locked in values like numbers and booleans. References are data sets in a way like arrays that you reference to later |
 
 10. Demonstrate a loop that prints the numbers between -100 and 100?
 
-    > | ANSWER HERE |
+    > | for (let i = -100; i < 101; i++){
+
+    } |
