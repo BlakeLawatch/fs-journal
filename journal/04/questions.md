@@ -9,7 +9,7 @@
 
 03. What does *REST* stand for, and in simple terms what does it mean??
 
-  > | ANSWER HERE |
+  > | Representational State Transfer. It's how certain programs talk to eachother |
 
 04. What is a callback / higher order function?
 
