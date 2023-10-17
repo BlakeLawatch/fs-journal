@@ -12,7 +12,7 @@
 
 03. What does `ORM` stand for? Which `ORM` do we use when interacting with MongoDB
 
-  > | Object Relationship M...? |
+  > | Object Relationship Mapping? |
 
 04. Which two `HTTP` request types include a body?
 
@@ -20,7 +20,7 @@
 
 05. In a/an _______ coding model, when you call a function, it returns only when the action has finished and stops your program for the time the action takes. Likewise in a/an _______ coding model, multiple things are allowed to happen at one time. When you perform an action, your program continues to run.  Fill in the blanks.
 
-  > | aynchronous, synchronous |
+  > | asynchronous, synchronous |
 
 06. What are the three types of data relationships? Provide an example of each.
 
@@ -28,7 +28,7 @@
 
 07. What is middleware?
 
-  > | ANSWER HERE |
+  > | It's pre made programming software that acts as a defense system against inappropriate users |
 
 08. The ______ pipeline delivers information from the client while the ______ pipeline returns it. Fill in the blanks. 
 
