@@ -40,4 +40,4 @@
 
 10. What is a ***virtual property***?
 
-  > | ANSWER HERE |
+  > | They are defined values of a model that can be combined together using specific methods or functions. |
