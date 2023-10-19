@@ -24,7 +24,9 @@
 
 06. What are the three types of data relationships? Provide an example of each.
 
-  > | ANSWER HERE |
+  > | one to one: An admin to a program
+  one to many: A library holding books
+  many to many: Coaches to players. Many coaches coaching many players  |
 
 07. What is middleware?
 
@@ -32,11 +34,11 @@
 
 08. The ______ pipeline delivers information from the client while the ______ pipeline returns it. Fill in the blanks. 
 
-  > | ANSWER HERE |
+  > | Request, respond |
 
 09. Demonstrate the pattern that is used to include a request query with the client's `HTTP` request providing the property `tag` and the value `winter`.
 
-  > | ANSWER HERE |
+  > | const winter = await req.tag(winter) |
 
 10. What is a ***virtual property***?
 
