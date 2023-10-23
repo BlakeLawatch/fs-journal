@@ -9,7 +9,7 @@
 
 03. What is ***Component-Based Architecture***?
 
-  > | ANSWER HERE |
+  > | It's a method used to make an application faster and more functional. Updating single components of an application when needed instead of updating the entire UI every time any change is made. |
 
 04. What are the three tags that make up a Vue component?
 
@@ -29,7 +29,7 @@
 
 08. What is the responsibility of `Services` in our Vue projects?
 
-  > | ANSWER HERE |
+  > | To change the original data that is stored in the AppState |
 
 09. What are ***props*** and how are they used? Provide an example
 
