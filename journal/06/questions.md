@@ -17,7 +17,7 @@
 
 05. What are ***lifecycle hooks***? What are lifecycle hooks used for?
 
-  > | ANSWER HERE |
+  > | Onmounted...? |
 
 06. Which component in Vue does the vue-router use to mount pages onto?
 
