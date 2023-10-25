@@ -5,7 +5,7 @@
 
 02. What is the difference between a vue `component` and `page`?
 
-  > | ANSWER HERE |
+  > | A component injects html amongst other things into a page |
 
 03. What is ***Component-Based Architecture***?
 
@@ -17,11 +17,11 @@
 
 05. What are ***lifecycle hooks***? What are lifecycle hooks used for?
 
-  > | Onmounted...? |
+  > | unonmounted and Onmounted. Onmounted runs until the cycle is over and unonmounted essentially refreshes the data. |
 
 06. Which component in Vue does the vue-router use to mount pages onto?
 
-  > | ANSWER HERE |
+  > | router-vue |
 
 07. What is the difference between the `AppState` and the state object within a component?
 
