@@ -1,7 +1,7 @@
 # Single Page Applications with Vue
 01. What is the entrypoint of an application?
 
-  > | ANSWER HERE |
+  > | The home page |
 
 02. What is the difference between a vue `component` and `page`?
 
@@ -25,7 +25,7 @@
 
 07. What is the difference between the `AppState` and the state object within a component?
 
-  > | ANSWER HERE |
+  > | AppState holds the variables for the entire application. The state object just holds a variable for that component |
 
 08. What is the responsibility of `Services` in our Vue projects?
 
