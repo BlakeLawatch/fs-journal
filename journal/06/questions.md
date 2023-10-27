@@ -33,8 +33,8 @@
 
 09. What are ***props*** and how are they used? Provide an example
 
-  > | ANSWER HERE |
+  > | It's a way to pass data from the parent to a child |
 
 10. What is the Vue method used to create watchable objects such as `state` or `AppState`?
 
-  > | ANSWER HERE |
+  > | Computed, I think? |
