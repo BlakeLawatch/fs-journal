@@ -18,7 +18,7 @@
 
 5. What is the `v-model` attribute in Vue for, and when might you use it?
 
-  > | ANSWER HERE |
+  > | It's a way to use two way data binding |
 
 6. What is the package.json file used for?
 
