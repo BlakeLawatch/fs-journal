@@ -22,16 +22,16 @@
 
 6. What is the package.json file used for?
 
-  > | ANSWER HERE |
+  > | Contains the functional data about the project |
 
 7. Which Vue attributes(directives) could you use to conditionally render elements on a page?
 
-  > | ANSWER HERE |
+  > | v-if v-show |
 
 8. What is the purpose of the `key` attribute when using `v-for` on an element?
 
-  > | ANSWER HERE |
+  > | Gives you the key to drill into an array |
 
 9. What is the `<slot>` element and what is it used for?
 
-  > | ANSWER HERE |
+  > | A way to run different instances |
