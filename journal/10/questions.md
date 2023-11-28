@@ -1,7 +1,7 @@
 # CSharp and SQL Fundamentals
 01. What is the purpose of a `namespace`?
 
-  > | ANSWER HERE |
+  > | It declares a scope and contains all of the objects within |
 
 02. What is the difference between a `class` and an `interface`?
 
@@ -29,7 +29,7 @@
 
 06. In the Car example what is `string` an indication of?
 
-  > | It is the type |
+  > | It is the data type |
 
 07. In the Car example what is `abstract` preventing?
 
