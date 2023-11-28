@@ -29,7 +29,7 @@
 
 06. In the Car example what is `string` an indication of?
 
-  > | ANSWER HERE |
+  > | It is the type |
 
 07. In the Car example what is `abstract` preventing?
 
