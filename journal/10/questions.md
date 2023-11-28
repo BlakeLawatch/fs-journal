@@ -5,11 +5,11 @@
 
 02. What is the difference between a `class` and an `interface`?
 
-  > | ANSWER HERE |
+  > | Class has a definition and can be used. Interface only has a definition |
 
 03. What is the method that returns an instance of a class, yet it has no return type?
 
-  > | ANSWER HERE |
+  > | Delete method? |
 
 05. In the Car example what is the access modifier of the `Start()` method?
 
@@ -25,7 +25,7 @@
   }
   ```
 
-  > | ANSWER HERE |
+  > | public|
 
 06. In the Car example what is `string` an indication of?
 
