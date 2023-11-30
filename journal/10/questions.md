@@ -50,4 +50,6 @@
 
 10. In SQL how can you query more than a single table? Provide an example.
 
-  > | ANSWER HERE |
+  > | SELECT *
+  FROM table
+  JOIN other_table ON table.id = other_table.id |
