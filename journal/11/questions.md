@@ -1,7 +1,7 @@
 # A bit more CSharp and SQL
 1. What does ***inheritance*** accomplish for us in C#?
 
-  > | ANSWER HERE |
+  > | Creates cleaner code and limits redundancy |
 
 2. How does ***member inheritance*** work in C#? Does a `Class` inherit all members of the base `Class`?
 
@@ -17,7 +17,7 @@
 
 5. What is an ***alias***?
 
-  > | ANSWER HERE |
+  > | It's a way to target a table with an abbreviation or a shorter word. Cleans up code and speeds up coding |
 
 6. Demonstrate how you would query a join statement that would get all of a doctors patients from the following collections:
 
