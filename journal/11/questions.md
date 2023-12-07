@@ -5,15 +5,15 @@
 
 2. How does ***member inheritance*** work in C#? Does a `Class` inherit all members of the base `Class`?
 
-  > | ANSWER HERE |
+  > | Member inheritance brings in all of the information from one class and injects it into another. Yes, a class inherits all members |
 
 3. How does ***accessibility*** affect inheritance?
 
-  > | ANSWER HERE |
+  > | Public makes functions accessible to all classes that inherit it, private makes it only accessible in that page. |
 
 4. What is the difference between a `PRIMARY KEY` and a `FOREIGN KEY`
 
-  > | ANSWER HERE |
+  > | A primary key is a unique key on each row of data. A foreign key is a way to create a virtual between two tables |
 
 5. What is an ***alias***?
 
@@ -47,4 +47,8 @@
 
   ```
 
-  > | ANSWER HERE |
+  > | Select
+  *
+  FROM patients
+  JOIN patient_doctors ON patients.id = patient_doctors.patientsId
+ |
